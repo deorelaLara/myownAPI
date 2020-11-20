@@ -1,0 +1,9 @@
+{
+    "conexion": {
+        "server" : "localhost",
+        "user" : "root",
+        "password" : "",
+        "dbname" : "apirest",
+        "port" : "3306"
+    }
+}
